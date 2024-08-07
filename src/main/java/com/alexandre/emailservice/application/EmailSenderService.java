@@ -1,7 +1,7 @@
 package com.alexandre.emailservice.application;
 
 import com.alexandre.emailservice.adapters.EmailSenderGateway;
-import com.alexandre.emailservice.core.EmailSenderUseCase;
+import com.alexandre.emailservice.core.cases.EmailSenderUseCase;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

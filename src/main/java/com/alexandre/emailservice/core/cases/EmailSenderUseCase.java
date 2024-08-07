@@ -1,4 +1,4 @@
-package com.alexandre.emailservice.core;
+package com.alexandre.emailservice.core.cases;
 
 public interface EmailSenderUseCase {
 
